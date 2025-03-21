@@ -3,7 +3,7 @@ import "./Body.css"
 
 const Body = ({ handleModeSwitch, modeSwitch }) => {
     return (
-        <div className={`wrap ${modeSwitch ? 'wrap{' : ''}`}>
+        <div className={`wrap ${modeSwitch ? 'wrapdark' : ''}`}>
             <div className='body'>
              <p> please enter a city</p>
              <input type="text"

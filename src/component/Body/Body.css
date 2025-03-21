@@ -175,9 +175,7 @@ p{
     color: white;
 }
 
-.body{
-    background: white;
-} 
+
 @media only screen and (max-width: 500px) {
 
 .wrap{
