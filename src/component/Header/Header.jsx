@@ -6,7 +6,7 @@ const Header = ({handleModeSwitch, modeSwitch}) => {
 
     
     return (
-        <div className={`header ${modeSwitch ? 'headerDark' : ''}`}>
+        <div className={`header ${modeSwitch ? 'headerwrapDark' : ''}`}>
             <div className='headerwrap'>
                <h2>Weather Dashboard</h2>
             </div>

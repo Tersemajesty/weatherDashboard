@@ -32,7 +32,13 @@
     /* padding: 10px; */
 }
 
-.headerDark{
+.headerwrapDark{
+    background: #000;
+    color: white;
+}
+
+
+.iconwrapDark{
     background: #000;
     color: white;
 }
