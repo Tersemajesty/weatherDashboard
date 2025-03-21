@@ -14,7 +14,7 @@ import "./Body.css"
             </div>
             <div className='moon'>
                 <div className='first'>
-                    <img src="public/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
+                    <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
                   <span>Temperature -  c</span>
                   <span>wind</span>
                   <span>condition</span>
@@ -26,7 +26,7 @@ import "./Body.css"
 
                 <div className='second'>
                  <div className='two'>
-                 <img src="public/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
+                 <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
                  <p>monday</p>
                  <span>Temperature -  c</span>
                   <span>wind</span>
@@ -35,7 +35,7 @@ import "./Body.css"
                  </div>
 
                  <div className='three'>
-                 <img src="public/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
+                 <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
                 <p>Tuesday</p>
                  <span>Temperature -  c</span>
                  <span>wind</span>
@@ -44,7 +44,7 @@ import "./Body.css"
                  </div>
 
                  <div className='four'>
-                 <img src="public/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
+                 <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
                  <p>Wednesday</p>
                  <span>Temperature -  c</span>
                  <span>wind</span>
@@ -53,7 +53,7 @@ import "./Body.css"
                  </div>
 
                  <div className='five'>
-                 <img src="public/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
+                 <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
                  <p>Thursday</p>
                  <span>Temperature -  c</span>
                  <span>wind</span>
