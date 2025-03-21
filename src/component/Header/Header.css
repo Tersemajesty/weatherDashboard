@@ -1,11 +1,12 @@
 .header{
     height: 15vh;
     width: 100%;
-    background: magenta;
+    background: white;
     display: flex;
     align-items: center;    
     justify-content: space-between;
     padding:10px;
+    border: 1px solid #000;
 
 }
 
