@@ -12,7 +12,7 @@
 .headerwrap{
     height: 70%;
     width: 30%;
-    background: magenta;
+    /* background: magenta; */
     display: flex;
     align-items: center;
     padding: 10px;
@@ -37,11 +37,12 @@
     color: white;
 }
 
-
-.iconwrapDark{
+.headerDark{
     background: #000;
     color: white;
 }
+
+
 
 @media only screen and (max-width: 500px) {
     .headerwrap{
