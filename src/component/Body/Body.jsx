@@ -1,14 +1,14 @@
 import React from 'react'
 import "./Body.css"
 
- const Body = () => {
+const Body = ({ handleModeSwitch, modeSwitch }) => {
     return (
-        <div className='wrap'>
+        <div className={`wrap ${modeSwitch ? 'wrapdark' : ''}`}>
             <div className='body'>
              <p> please enter a city</p>
              <input type="text"
              placeholder='E.g Newyork, London' />
-             <button>Search</button>
+             <button  handleModeSwitch={handleModeSwitch}>Search</button>
              <>or</>
              <button>use Current Location</button>
             </div>

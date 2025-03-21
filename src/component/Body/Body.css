@@ -169,6 +169,11 @@ p{
         border-radius: 50%;}
 }
 
+
+.wrapdark{
+    background: #000;
+    color: white;
+}
 @media only screen and (max-width: 500px) {
 
 .wrap{
@@ -185,7 +190,6 @@ p{
     height:30%;
     width: 100%;
     flex-direction: column;
-    /* overflow-y: hidden; */
 
     & p {
         font-size: 20px;

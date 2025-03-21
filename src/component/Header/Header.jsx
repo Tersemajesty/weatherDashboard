@@ -1,13 +1,16 @@
 import React from 'react'
 import './Header.css'
 import { LuSunMoon } from "react-icons/lu";
- const Header = () => {
+
+const Header = ({handleModeSwitch, modeSwitch}) => {
+
+    
     return (
-        <div className='header'>
+        <div className={`headerW ${modeSwitch ? 'headerDark' : ''}`}>
             <div className='headerwrap'>
                <h2>Weather Dashboard</h2>
             </div>
-            <div className='iconwrap'>
+            <div className='iconwrap' onClick={handleModeSwitch}>
             <LuSunMoon  size={40}/>
             </div>
         </div>

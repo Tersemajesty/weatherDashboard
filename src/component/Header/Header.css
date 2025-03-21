@@ -32,6 +32,11 @@
     /* padding: 10px; */
 }
 
+.headerDark{
+    background: #000;
+    color: white;
+}
+
 @media only screen and (max-width: 500px) {
     .headerwrap{
         height: 60%;
