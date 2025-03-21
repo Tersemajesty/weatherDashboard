@@ -175,6 +175,26 @@ p{
     color: white;
 }
 
+.bodydark{
+    background: #000;
+    color: white;
+}
+
+.moondark{
+    background: wheat;
+    color: white;
+}
+
+.secongdark{
+    background: black;
+    color: white;
+}
+
+
+
+
+
+
 
 @media only screen and (max-width: 500px) {
 
