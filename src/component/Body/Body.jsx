@@ -75,8 +75,8 @@ return(
           <span>city: {weatherData.city}</span>
         </div>
         
-        <p>Five Days Forcast</p>
-
+        {/* <p>Five Days Forcast</p> */}
+{/* 
         <div className='second'>
          <div className={`two ${modeSwitch ? 'twodark' : ''}`}>
          <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
@@ -85,8 +85,8 @@ return(
           <span>wind: {weatherData.wind_speed}</span>
           <span>condition: {weatherData.condition}</span> 
           <span>city: {weatherData.city}</span>
-         </div>
-
+         </div> */}
+{/* 
          <div className={`three ${modeSwitch ? 'threedark' : ''}`}>
          <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
         <p>Tuesday</p>
@@ -94,31 +94,31 @@ return(
           <span>wind: {weatherData.wind_speed}</span>
           <span>condition: {weatherData.condition}</span> 
           <span>city: {weatherData.city}</span>
-         </div>
+         </div> */}
 
-         <div className={`four ${modeSwitch ? 'fourdark' : ''}`}>
+         {/* <div className={`four ${modeSwitch ? 'fourdark' : ''}`}>
          <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
          <p>Wednesday</p>
          <span>Temperature: {weatherData.temperature} </span>
           <span>wind: {weatherData.wind_speed}</span>
           <span>condition: {weatherData.condition}</span> 
           <span>city: {weatherData.city}</span>
-         </div>
+         </div> */}
 
-         <div className={`five ${modeSwitch ? 'fivedark' : ''}`}>
+         {/* <div className={`five ${modeSwitch ? 'fivedark' : ''}`}>
          <img src="/Cloud With Raining Clip Art Transparent Free Download, Raining, Cloud Rain, Cloud With Raining PNG Transparent Image and Clipart for Free Download.jpeg" alt="" />
          <p>Thursday</p>
          <span>Temperature: {weatherData.temperature} </span>
           <span>wind: {weatherData.wind_speed}</span>
           <span>condition: {weatherData.condition}</span> 
           <span>city: {weatherData.city}</span>
-         </div>
+         </div> */}
          
          </div>
         
     </div>
    
-</div>
+// </div>
 )
 } 
 

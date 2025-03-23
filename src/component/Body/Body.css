@@ -1,5 +1,5 @@
 .wrap{
-    height: 120vh;
+    height: 80vh;
     width: 100%;
     background: wheat;
     display: flex;
@@ -59,11 +59,11 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
 }
 
 .first{
-    height: 30%;
+    height: 60%;
     width: 90%;
     background: white;
     display: flex;
@@ -72,7 +72,7 @@
     flex-direction: column;
     padding: 20px;
     border-radius: 10px;
-    /* gap: 10px; */
+    gap: 10px;
     padding:10px;
 
 
