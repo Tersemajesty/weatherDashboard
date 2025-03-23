@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import {  useState } from 'react'
 import './App.css'
 import Body from './component/Body/Body'
 import Header from './component/Header/Header'  
@@ -11,8 +11,17 @@ function App() {
   const handleModeSwitch = () => {
     setModeSwitch(!modeSwitch)
 }
-  return (
+
+// const [loadState, setLoadState] = useState(true)
+ 
+// useEffect(()=>{
+//   setTimeout(()=>{
+//     setLoadState(false)
+//   }, 500)
+// })
+return (
     <>
+    
       <div>
       <Header handleModeSwitch = {handleModeSwitch} modeSwitch = {modeSwitch}/>
       <Body handleModeSwitch = {handleModeSwitch} modeSwitch = {modeSwitch} />
@@ -22,4 +31,4 @@ function App() {
   )
 }
 
-export default App
+export default App 
